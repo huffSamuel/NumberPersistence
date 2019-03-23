@@ -9,8 +9,8 @@ This project was inspired by [this](https://youtu.be/Wim9WJeDTHQ) Numberphile vi
 # Use
 
 1. Build
-2. dotnet persistenceNumbers.dll
-3. Wait...
+2. `dotnet persistenceNumbers.dll`
+3. Wait for your results
 
 This project will count up to ulong.MaxValue (18,446,744,073,709,551,615) to find the most persistent number. There are some minor optimizations included that will help the counting process.
 
