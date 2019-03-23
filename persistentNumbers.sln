@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "persistentNumbers", "source\persistentNumbers\persistentNumbers.csproj", "{C05877D1-807B-4C17-81D4-10E4C79F8C66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "persistendNumbers.Tests", "source\persistendNumbers.Tests\persistendNumbers.Tests.csproj", "{B1C8E6DA-43AF-410D-9DF5-C730BDE7972A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C05877D1-807B-4C17-81D4-10E4C79F8C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C05877D1-807B-4C17-81D4-10E4C79F8C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C05877D1-807B-4C17-81D4-10E4C79F8C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C8E6DA-43AF-410D-9DF5-C730BDE7972A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C8E6DA-43AF-410D-9DF5-C730BDE7972A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C8E6DA-43AF-410D-9DF5-C730BDE7972A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C8E6DA-43AF-410D-9DF5-C730BDE7972A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
